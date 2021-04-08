@@ -1,0 +1,21 @@
+body {
+    background-color: #ad4848;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    height: 50px;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 300px;
+    margin-bottom: 0px;
+}
+
+button {
+    margin-top: 15px;
+    background-color: #A79AFF;
+    border-radius: 5px;
+}
